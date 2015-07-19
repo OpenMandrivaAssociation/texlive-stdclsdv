@@ -6,7 +6,7 @@
 # catalog-version 1.1a
 Name:		texlive-stdclsdv
 Version:	1.1a
-Release:	9
+Release:	10
 Summary:	Provide sectioning information for package writers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/stdclsdv
